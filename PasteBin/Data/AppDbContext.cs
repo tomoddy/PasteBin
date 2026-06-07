@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PasteBin.Models;
 
-namespace Pastebin.Data
+namespace PasteBin.Data
 {
     /// <summary>
     /// Application database context
